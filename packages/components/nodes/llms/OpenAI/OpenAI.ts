@@ -46,6 +46,10 @@ class OpenAI_LLMs implements INode {
                     {
                         label: 'text-babbage-001',
                         name: 'text-babbage-001'
+                    },
+                    {
+                        label: 'arena-ft',
+                        name: 'davinci:ft-a-mp-test-2023-05-22-03-29-53 '
                     }
                 ],
                 default: 'text-davinci-003',
